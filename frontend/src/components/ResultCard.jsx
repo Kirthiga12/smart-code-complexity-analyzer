@@ -6,5 +6,4 @@ function ResultCard({ title, value }) {
     </div>
   );
 }
-
 export default ResultCard;
